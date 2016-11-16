@@ -14,7 +14,7 @@
 * Community engagement
 * Productivity suites (Word, Excel, Powerpoint)
 * Computer-aided design (AutoCAD, Photoshop, InDesign, Illustrator)
-* Programming (HTML5, CSS3, Bootstrap, JavaScript)
+* Programming (HTML5, CSS3, Bootstrap, JavaScript, Ruby)
 * Communication management (Wordpress)
 * Geographic information systems (ArcGIS)
 
@@ -53,3 +53,38 @@ Oct 2013 -- Aug 2016
     * Managed suppliers reducing up to 20% the budget spent on materials and services.
     * Attended conferences and networking events as a representative of LBC.
     * Organised and delivered events and workshops.
+
+Jan 2013 -- Oct 2013
+:   **Agricultural Engineer** at *[Battle McCarthy](http://http://www.battlemccarthy.com/)* *(London, UK)*
+
+    Responsible for urban agriculture R&D. I worked with five other people, developing agricultural strategies to maximise food production inside buildings using hydroponic food-growing systems. Some of the projects and tasks I have worked on are:
+    * Created diagrams and sketches for a zoo and botanical garden submission. BM and LAVA architects.
+    * Designed agricultural alternatives including yield estimates and crop planning for the redevelopment of a wetland in Suzhou, Shanghai. The proposal ended up as one of the finalists.
+    * Completed a feasibility study to apply biotechnologies to the European Parliament building in Brussels, including hydroponic vertical farms and rooftop greenhouses.
+    * Created agricultural and landscape designs as part of the redevelopment of a pharmaceutical campus in the UK, including endemic trees and flowers, food crops and green areas.
+    * Participated in the design of the fire protection and sewage systems for the King Abdulaziz City for Science and Technology (KACST) Tower in Saudi Arabia using AutoCAD.
+    * Designed an agricultural plan for the Maybury Residential Tower in Lagos, Nigeria.
+
+Sep 2011 -- Sep 2012
+:   **Environmental Engineer** at *[Aqualogy (AGBAR group)](http://www.aqualogyuk.co.uk/)* *(Madrid, Spain)*
+
+    Worked as part of the water management team undertaking ecological and quality control tasks.
+    * Responsible for conducting compliance checks for the purpose of enforcing Spanish and European laws regarding water treatment.
+    * Established a working methodology for the analysis of biological quality parameters of Spanish rivers.
+
+Mar 2007 -- Jul 2008
+:   **Voluntary speaker** at *[Technical University of Madrid](http://www.upm.es/internacional)* *(Madrid, Spain)*  
+
+    Participated as a guest speaker at the IV World Congress of Agricultural Engineers, presenting my final year project "Iberian Pig Value Chain Analysis”.
+
+2006 -- 2008
+:   **Internship food sector** at *[Technical University of Madrid](http://www.upm.es/internacional)* *(Madrid, Spain)*  
+
+    Worked at the Agricultural Economy department analysing the value chain of various food products, and at the Agri-Food Industry department carrying out quality control procedures in the bread industry.
+
+
+## Other information
+
+English (Professional working proficiency)
+Spanish (Native)
+I also write on my blog (https://groundberry.github.io/) and Twitter account (@blanca_mendi) about topics I’m interested in, and publish my software development projects on GitHub (@groundberry).
