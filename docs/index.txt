@@ -6,81 +6,155 @@ BLANCA MENDIZABAL PERELLO
 ------------------------------------------------------------------------
 
   Full-stack software developer recently graduated from Makers Academy,
-  Europe’s leading web development bootcamp.
+  Europe’s leading web development bootcamp. I’m looking for a
+  full-stack junior developer position in a company with ambitions to
+  create something fantastic in the next few years.
 
-------------------------------------------------------------------------
+[Blog] groundberry.github.io [Twitter] @blanca_mendi [GitHub]
+@groundberry —
 
 
 Skills
 
--   Data analysis
--   Project management
--   Urban agriculture
--   Community engagement
--   Productivity suites (Word, Excel, Powerpoint)
--   Computer-aided design (AutoCAD, Photoshop, InDesign, Illustrator)
--   Programming (HTML5, CSS3, Bootstrap, JavaScript)
--   Communication management (Wordpress)
--   Geographic information systems (ArcGIS)
+Project management and analytical skills
+
+Strong ability breaking projects into smaller tasks, making it easier to
+deliver on time and budget.
+
+Problem solving
+
+My naturally empathetic character is one of my biggest strengths, making
+it very easy for me to see when any of my colleagues need personal or
+professional support. During my studies at Makers I had the opportunity
+to help colleagues that were struggling, making them feeling relieved
+and empowered.
+
+Flexibility and active learner
+
+For the last five years I have been experiencing big changes in my life,
+and I overcame those by focusing on my strengths and abilities. Last
+year I made the biggest change in my life, changing careers and teaching
+myself to code before I joined Makers. It sounds crazy but it’s being
+amazingly satisfying!
+
+Communication and collaboration
+
+Currently writing a weekly blog explaining my journey into coding. My
+colleagues at Makers highlight my patience and ability to explain
+concepts as two of my main skills.
+
+Data analysis
+
+Extensive experience on research and data analysis that allowed me to
+build internal databases of information to support fundraising proposals
+and impact evaluation reports.
+
+Creativity and design
+
+Extensively worked with AutoCAD, Photoshop, InDesign, and Illustrator in
+personal and professional projects. I love designing attractive and user
+friendly interfaces for every project I work on.
 
 
-Education
+Projects
 
-Aug 2016 – Dec 2016
+  -----------------------------------------------------------------
+  Name             Description      Technologies      Timeframe
+  -------------- ---------------- ---------------- ----------------
+  Twitch.tv      Javascript with    Javascript,         3 days
+  streaming       Ajax requests    jQuery, HTML,   
+                                   CSS, Bootstrap  
 
-    ONSITE SOFTWARE DEVELOPMENT BOOTCAMP at Makers Academy
-    _(London, UK)_
+  Wikipedia      Javascript with    Javascript,         1 day
+  search          Ajax requests    jQuery, HTML,   
+                                   CSS, Bootstrap  
 
-    Makers Academy is a highly selective 12 week full-time program
-    (preceded by a four week pre-course) which teaches web development
-    in London.
+  CSS playground   A tool that         React           10 days
+                  allows you to                    
+                 make changes to                   
+                   a simple web                    
+                 page and see the                  
+                   HTML and CSS                    
+                  code that you                    
+                 are creating in                   
+                    real time.                     
 
-2010 -– 2011
-
-    M.SC. ENVIRONMENTAL ENGINEERING AND MANAGEMENT at EOI Business
-    School _(Madrid, Spain)_
-
-    Master thesis “Development of an Environmental Management System
-    under the European EMAS Regulation”.
-
-2000 – 2008
-
-    M.SC AGRICULTURAL ENGINEERING at Technical University of Madrid
-    _(Madrid, Spain)_
-
-    My final year project, “Iberian Pig Value Chain Analysis”, received
-    an outstanding qualification.
+  StoryApp          Javascript      Javascript,         5 days
+                   single-page     jQuery, HTML,   
+                   application          CSS        
+  -----------------------------------------------------------------
 
 
 Experience
 
+SUSTAINABILITY CONSULTANT at _Little Bee Community_ _(London, UK)_
 Oct 2013 – Aug 2016
 
-    SUSTAINABILITY CONSULTANT at _Little Bee Community_ _(London, UK)_
+Led a wide range of projects locally and abroad, ensuring goals were met
+on time and on budget. Created internal databases of agricultural
+techniques and best practices, and funding opportunities for a wide
+range of projects. I supported and managed volunteers and other team
+members.
 
-    Managed a wide range of projects locally and abroad, ensuring goals
-    are met on time and on budget. Examples of projects and tasks I have
-    worked on are:
+AGRICULTURAL ENGINEER at _Battle McCarthy_ _(London, UK)_ Jan 2013 – Oct
+2013
 
-    -   Completed a feasibility study of a water-efficient agricultural
-        system using hydroponics in Ghana.
-    -   Developed a compact hydroponic food-growing system for
-        urban settings. It yields double the amount, and uses up to 13
-        times less water than traditional soil based agriculture — 40
-        litres of water per sqm every 2 weeks (an equivalent of
-        0.012 litres/plant/day).
-    -   Created an internal database of agricultural techniques and best
-        practices based on research.
-    -   Created a complete database of funding opportunities for a wide
-        range of projects.
-    -   Created evaluation reports and wrote shortlisted funding
-        proposals and tender applications.
-    -   Created marketing documents and training material using
-        InDesign, Illustrator and Photoshop.
-    -   Supported and managed volunteers and other team members giving
-        guidance on task performance.
-    -   Managed suppliers reducing up to 20% the budget spent on
-        materials and services.
-    -   Attended conferences and networking events as a representative
-        of LBC.
-    -   Organised and delivered events and workshops.
+Responsible for urban agriculture R&D. I worked with five other people,
+developing agricultural strategies to maximise food production inside
+buildings using hydroponic systems.
+
+ENVIRONMENTAL ENGINEER at _Aqualogy (AGBAR group)_ _(Madrid, Spain)_ Sep
+2011 – Sep 2012
+
+Responsible for conducting compliance checks for the purpose of
+enforcing Spanish and European laws regarding water treatment. I also
+designed a working methodology for the analysis of biological quality
+parameters of Spanish rivers.
+
+VOLUNTARY SPEAKER at _Technical University of Madrid_ _(Madrid, Spain)_
+Mar 2007 – Jul 2008
+
+Participated as a guest speaker at the IV World Congress of Agricultural
+Engineers, presenting my final year project “Iberian Pig Value Chain
+Analysis”.
+
+INTERNSHIP FOOD SECTOR at _Technical University of Madrid_ _(Madrid,
+Spain)_ 2006 – 2008
+
+Worked at the Agricultural Economy department analysing the value chain
+of various food products, and at the Agri-Food Industry department
+carrying out quality control procedures in the bread industry.
+
+
+Education
+
+ONSITE SOFTWARE DEVELOPMENT BOOTCAMP at Makers Academy _(London, UK)_
+Aug 2016 – Dec 2016
+
+Highly-selective 16-week full-time program, emphasising:
+
+-   Front-end software development
+-   Back-end software development
+-   Pair-programming
+-   Test-driven development
+-   Object-oriented design
+-   Agile methodologies
+
+M.SC. ENVIRONMENTAL ENGINEERING AND MANAGEMENT at EOI Business School
+_(Madrid, Spain)_ 2010 -– 2011
+
+Master thesis “Development of an Environmental Management System under
+the European EMAS Regulation”.
+
+M.SC AGRICULTURAL ENGINEERING at Technical University of Madrid
+_(Madrid, Spain)_ 2000 – 2008
+
+My final year project, “Iberian Pig Value Chain Analysis”, received an
+outstanding qualification.
+
+
+Other information
+
+English (Professional working proficiency)
+Spanish (Native)
+I love making my own bread and photography
