@@ -28,7 +28,7 @@ $(HTML): $(MARKDOWN) $(STYLE) $(IMAGES)
 		$(MARKDOWN)
 
 $(PDF): $(HTML)
-	wkhtmltopdf $(HTML) $(PDF)
+	wkhtmltopdf --print-media-type $(HTML) $(PDF)
 
 $(WORD): $(MARKDOWN) $(IMAGES)
 	pandoc \
