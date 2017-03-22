@@ -54,13 +54,16 @@ Projects
   -----------------------------------------------------------------
   Name             Description      Technologies      Timeframe
   -------------- ---------------- ---------------- ----------------
-  Twitch.tv      JavaScript with    JavaScript,         3 days
-  streaming       Ajax requests    jQuery, HTML,   
-                                   CSS, Bootstrap  
+<<<<<<< HEAD
+  Flashcards     Client side of a   React, React       Ongoing
+  Client         single-page app      Toolbox      
+=======
+  Flashcards     Client side of a React, Bootstrap     Ongoing
+  Client         single-page app                   
+>>>>>>> 02e8b23c7bd457bd9d2f28882baf25fc69242ada
 
-  Wikipedia      JavaScript with    JavaScript,         1 day
-  search          Ajax requests    jQuery, HTML,   
-                                   CSS, Bootstrap  
+  Flashcards     Server side of a  Ruby on Rails       Ongoing
+  Server         single-page app                   
 
   CSS playground   Live-editing     JavaScript,        10 days
                    HTML and CSS     React, Jest    
@@ -143,6 +146,7 @@ outstanding qualification.
 
 Other information
 
+-   Email: blanca.mendizabal.perello@gmail.com
 -   English (professional working proficiency).
 -   Spanish (native).
 -   I love making my own bread, and photography.

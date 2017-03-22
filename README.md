@@ -28,8 +28,8 @@ I'm passionate about crafting attractive and user-friendly interfaces for every 
 
 | Name          | Description   | Technologies  | Timeframe     |
 | ------------- |:-------------:|:-------------:|:-------------:|
-| [Twitch.tv streaming](https://github.com/groundberry/twitchtv-streamers) | JavaScript with Ajax requests | JavaScript, jQuery, HTML, CSS, Bootstrap | 3 days |
-| [Wikipedia search](https://github.com/groundberry/wikipedia-search) | JavaScript with Ajax requests | JavaScript, jQuery, HTML, CSS, Bootstrap | 1 day |
+| [Flashcards Client](https://github.com/groundberry/flashcards-client) | Client side of a single-page app | React, React Toolbox | Ongoing |
+| [Flashcards Server](https://github.com/groundberry/flashcards-server) | Server side of a single-page app | Ruby on Rails | Ongoing |
 | [CSS playground](https://github.com/groundberry/CSS-playground) | Live-editing HTML and CSS tool | JavaScript, React, Jest | 10 days |
 | [StoryApp](https://github.com/groundberry/story-app) | JavaScript single-page application | JavaScript, jQuery, Jasmine, HTML, CSS | 5 days |
 
@@ -78,6 +78,7 @@ My final year project, *"Iberian Pig Value Chain Analysis"*, received an outstan
 
 ## Other information
 
+* Email: blanca.mendizabal.perello@gmail.com
 * English (professional working proficiency).
 * Spanish (native).
 * I love making my own bread, and photography.
