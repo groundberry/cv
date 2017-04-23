@@ -1,0 +1,9 @@
+{
+  "name": "cv",
+  "scripts": {
+    "print": "node print.js"
+  },
+  "devDependencies": {
+    "chrome-remote-interface": "^0.20.0"
+  }
+}

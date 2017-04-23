@@ -28,7 +28,8 @@ $(HTML): $(MARKDOWN) $(STYLE) $(IMAGES)
 		$(MARKDOWN)
 
 $(PDF): $(HTML)
-	wkhtmltopdf --print-media-type $(HTML) $(PDF)
+	npm install
+	npm run print -- $(HTML) $(PDF)
 
 $(WORD): $(MARKDOWN) $(IMAGES)
 	pandoc \
