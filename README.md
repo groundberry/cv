@@ -1,90 +1,85 @@
 # Blanca Mendizabal Perello
 
-Full-stack software developer recently graduated from [Makers Academy](http://www.makersacademy.com), Europe's leading web development bootcamp. I'm looking for a junior developer position in a company where I can make an impact and also grow professionally.
+I'm a full-stack software developer, currently focused on Ruby on Rails, Node and modern front-end technologies such as React. Enthusiastic learner, strong communicator, and reliable team player.
 
-* [+1 (206) 698 6782](tel:+12066986782)
-* [blanca.mendizabal.perello@gmail.com](mailto:blanca.mendizabal.perello@gmail.com)
-* [Blog](https://groundberry.github.io/)
-* [GitHub](https://github.com/groundberry)
-* [LinkedIn](https://uk.linkedin.com/in/blancamendi)
-* [Twitter](https://twitter.com/blanca_mendi)
+[+1 (206) 698 6782](tel:+12066986782) | [blanca.mendizabal.perello@gmail.com](mailto:blanca.mendizabal.perello@gmail.com) | [Blog](https://groundberry.github.io/) | [GitHub](https://github.com/groundberry) | [LinkedIn](https://uk.linkedin.com/in/blancamendi) | [Twitter](https://twitter.com/blanca_mendi)
 
 
 ## Personal projects
 
-**[Safe Water](https://github.com/groundberry/water-client)** -- *React, Jest, Enzyme, Node.js, Express, PostgreSQL* -- Ongoing
-
-Single-page app that helps users know the quality of drinking water in their area. The responsive user interface in the [front-end](https://github.com/groundberry/water-client) communicates with a [back-end](https://github.com/groundberry/water-server) that retrieves data from a database, and highlights dangerous levels for each contaminant.
-
-**[Flickr Gallery](https://groundberry.github.io/flickr-client)** -- *React, Jest, Enzyme, Sinatra* -- 5 days
-
-Single-page app with a [front-end](https://github.com/groundberry/flickr-client) that queries the Flickr API for cute photos through a [proxy](https://github.com/groundberry/flickr-proxy) that deals with authentication and CORS.
+These are some of my side projects. You can see more in my [Portfolio](https://groundberry.github.io/portfolio.html) page or my [GitHub](https://github.com/groundberry) profile.
 
 **[Flashcards](https://groundberry.github.io/flashcards-client/)** -- *React, Jest, Enzyme, Ruby on Rails, RSpec, GitHub OAuth, PostgreSQL* -- 45 days
 
-Self-service tool for users to learn through spaced repetition. It allows them to create, edit, and delete flashcards. The [front-end](https://github.com/groundberry/flashcards-client) makes requests to an API in the [back-end](https://github.com/groundberry/flashcards-server), fetching tags and flashcards for the logged in user.
+- A self-service tool for users to learn through spaced repetition.
+- Once the user is authenticated, they are able to create, edit, and delete flashcards.
+- I split the front-end logic into smaller, stateless, well-tested components.
+- High test coverage helped keep complexity under control and implement bug-free logic.
+- Having gained more than 40 users in the first month after being released, it had really good acceptance and received valuable feedback from real users.
+- App: [groundberry.github.io/flashcards-client](https://groundberry.github.io/flashcards-client/)
+- GitHub: [github.com/groundberry/flashcards-client](https://github.com/groundberry/flashcards-client)
 
-**[CSS playground](https://css-play.herokuapp.com)** -- *React, Jest, HTML5, CSS3* -- 10 days
+**[CSS playground](https://css-play.herokuapp.com)** -- *React, Jest, Enzyme, HTML5, CSS3* -- 10 days -- Final project at Makers Academy
 
-Final project at Makers Academy. A [live-editing HTML and CSS tool](https://github.com/groundberry/CSS-playground) that allows users with no coding experience to create basic website drafts, and download the code.
+- A live-editing HTML and CSS tool built by a team of 4.
+- Users with no coding experience can create basic website drafts, and download the code.
+- Despite being my first time using React, I became productive after just one week.
+- I played a key role making sure every member of the team felt heard and valued.
+- App: [css-play.herokuapp.com](https://css-play.herokuapp.com/)
+- GitHub: [github.com/groundberry/CSS-playground](https://github.com/groundberry/CSS-playground)
+
+**[Flickr Gallery](https://groundberry.github.io/flickr-client)** -- *React, Jest, Enzyme, Sinatra* -- 5 days
+
+- A SPA that retrieves images from the Flickr API so users can search for pictures that match their search.
+- I built a small proxy using Sinatra, to deal with CORS and to avoid exposing API keys.
+- Designed following a mobile-first approach, using media queries to display the images nicely as the size of the screen changes.
+- App: [groundberry.github.io/flickr-client](https://groundberry.github.io/flickr-client/)
+- GitHub: [github.com/groundberry/flickr-client](https://github.com/groundberry/flickr-client)
 
 
 ## Skills
 
-**Project Management** -- I've shown strong ability breaking projects into smaller tasks while working at [Little Bee Community](#experience). I managed a project in Africa, creating a three-year timeline that included monthly and weekly tasks, cost tracking, and list of suppliers. This structured workflow made it easier to deliver the project on time and on budget.
+**Technical:** Front-end development (JavaScript, React) | Back-end development (Ruby, Ruby on Rails, Node.js) | Pair-programming | Test-driven development | Object-oriented design | Agile methodologies
 
-**Adaptability** -- For the last five years I have been experiencing big changes in my life, and I managed to successfully overcome them by focusing on my strengths and abilities. My last challenge, a career change, started one year ago when I began learning HTML, CSS and JavaScript by myself. I then decided to join Makers Academy, a 12-week bootcamp where I learnt Ruby, Rails, Node, and React, to name a few technologies.
-
-**Communication and Collaboration** -- My colleagues at Makers highlight my empathy, patience, and ability to explain concepts clearly as my main skills. For example, on one specially challenging week I noticed that my colleague was struggling with understanding how a Node app works. I helped her analyze the project's structure and data flow. By the end of the day we managed to have a server up and running!
-
-**Design and User Experience** -- I'm passionate about crafting attractive and user-friendly interfaces for every project I work on. I have taught myself CSS, Bootstrap, Photoshop, InDesign, and Illustrator. I have used these skills to create appealing and usable apps in personal projects, and marketing materials for [Little Bee Community](#experience) and [Battle McCarthy](#experience).
+**Behavioral:** Project management | Problem solving | Adaptability | Communication and collaboration | Empathy | Creativity
 
 
 ## Experience
 
 **Sustainability Consultant** at *[Little Bee Community](http://littlebeecommunity.com)* *(London, UK)* Oct 2013 -- Aug 2016
 
-Led a wide range of projects locally and abroad, ensuring goals were met on time and on budget. I co-designed and launched an urban vertical farming project, gaining buy-in from a range of local stakeholders, managed and mentored a team of interns, and played a lead role in developing impact frameworks and reports.
+- Led a three-year-long project in Africa, defining weekly tasks and monthly milestones, as well as tracking and managing costs and suppliers ensuring goals were met on time and on budget.
+- Co-designed and launched a hydroponic urban farm in London that reduced crop's water needs by 90% and doubled its yield, gaining buy-in from a range of local stakeholders.
+- Reported directly to the CEO, and managed and mentored a team of four interns.
+- Played a lead role in developing impact frameworks and reports.
 
 **Agricultural Engineer** at *[Battle McCarthy](http://www.battlemccarthy.com/)* *(London, UK)* Jan 2013 -- Oct 2013
 
-Responsible for urban agriculture R&D. I worked with five other people, developing agricultural strategies to maximize food production inside buildings using hydroponic systems.
+- Led efforts to maximize food production using hydroponics, on a team of three landscape architects and one engineer.
+- Taught myself Photoshop, InDesign, and Illustrator.
+- Created appealing diagrams for shortlisted landscaping competitions and corporate marketing materials.
 
 **Environmental Engineer** at *[Aqualogy (AGBAR group)](http://www.aqualogyuk.co.uk/)* *(Madrid, Spain)* Sep 2011 -- Sep 2012
 
-Responsible for conducting compliance checks to enforce European laws regarding water treatment. I also designed a working methodology for the analysis of biological quality parameters of Spanish rivers.
+- Conducted compliance checks to enforce European laws regarding water treatment.
+- Designed a working methodology for the analysis of biological quality parameters of Spanish rivers that ensured best practices on sample collection.
 
 
 ## Education
 
 **Software Development Self-Training** Jan 2016 -- Ongoing
 
-I'm improving my software development skills using online sources and books. Currently I'm working on side projects focusing on:
+Self-directed study with online sources and textbooks focusing on:
 
-* Single-page apps using React
-* APIs using Express, Sinatra, or Ruby on Rails
-* Algorithms and data structures
+- Single-page apps using React
+- APIs using Express, Sinatra, or Ruby on Rails
+- Algorithms and data structures
 
 **Onsite Software Development Bootcamp** at [Makers Academy](http://www.makersacademy.com) *(London, UK)* Aug 2016 -- Dec 2016
 
-Highly-selective 12-week full-time program (and 4-week pre-course), emphasizing:
-
-* Front-end development (JavaScript, React)
-* Back-end development (Ruby, Ruby on Rails, Node.js)
-* Pair-programming
-* Test-driven development
-* Object-oriented design
-* Agile methodologies
+- Highly-selective 16-week full-time program where I demonstrated **hungry for learning** and **adaptability to high pressure situations**, being able to learn a new technology every week completing all the assignments with great feedback from my coach.
+- During the course I showed excellent **communication and collaborative skills** by helping classmates with their assignments and projects, including offering insights regarding libraries, JavaScript language quirks, and proper data flow. I also started my own blog, which I maintained weekly during the course and won the final competition.
 
 **M.Sc. Environmental Engineering and Management** at [EOI Business School](http://www.eoi.es/portal/en) *(Madrid, Spain)* 2010 -– 2011
 
-Master thesis *"Development of an Environmental Management System under the European EMAS Regulation"*.
-
-**M.Sc Agricultural Engineering** at [Technical University of Madrid](http://www.upm.es/internacional) *(Madrid, Spain)* 2000 -- 2008
-
-My final year project, *"Iberian Pig Value Chain Analysis"*, received an outstanding qualification.
-
-## Other information
-
-* English (professional working proficiency), Spanish (native).
-* I love making my own bread, and photography.
+**B.Sc Agricultural Engineering** at [Technical University of Madrid](http://www.upm.es/internacional) *(Madrid, Spain)* 2000 -- 2008

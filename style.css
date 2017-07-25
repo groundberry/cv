@@ -12,7 +12,7 @@ body {
   line-height: 1.5;
   margin: 0 auto;
   max-width: 50em;
-  padding: 30px 0 40px;
+  padding: 30px 15px 40px;
   word-wrap: break-word;
 }
 
@@ -151,23 +151,4 @@ table tr:nth-child(2n) {
 
 img {
   max-width: 100%;
-}
-
-ul:first-of-type {
-  list-style: none;
-}
-
-ul:first-of-type {
-  margin: 0;
-  padding: 0;
-  text-align: center;
-}
-
-ul:first-of-type li {
-  display: inline-block;
-}
-
-ul:first-of-type li:not(:last-child):after {
-  content: ' • ';
-  padding: 0 6px;
 }
