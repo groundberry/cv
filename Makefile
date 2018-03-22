@@ -1,6 +1,3 @@
-AUTHOR := Blanca Mendizabal Perello
-TITLE := CV
-
 INPUT := .
 MARKDOWN := $(INPUT)/README.md
 STYLE := $(INPUT)/style.css
@@ -19,8 +16,7 @@ $(HTML): $(MARKDOWN) $(STYLE) $(IMAGES)
 		--title-prefix "$(AUTHOR) - $(TITLE)" \
 		--self-contained \
 		--standalone \
-		--smart \
-		--from markdown \
+		--from markdown+smart \
 		--to html5 \
 		--css https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.css \
 		--css $(STYLE) \
@@ -41,8 +37,7 @@ $(WORD): $(MARKDOWN) $(IMAGES)
 $(TEXT): $(MARKDOWN)
 	pandoc \
 		--standalone \
-		--smart \
-		--from markdown \
+		--from markdown+smart \
 		--to plain \
 		--output $(TEXT) \
 		$(MARKDOWN)

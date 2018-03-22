@@ -1,7 +1,4 @@
-
-
-BLANCA MENDIZABAL PERELLO
-
+Blanca Mendizabal Perello
 
 I’m a full-stack software developer, currently focused on Ruby on Rails,
 Node and modern front-end technologies such as React. Enthusiastic
@@ -9,6 +6,61 @@ learner, strong communicator, and reliable team player.
 
 +1 (206) 698 6782 | blanca.mendizabal.perello@gmail.com | Blog | GitHub
 | LinkedIn | Twitter
+
+
+Skills
+
+TECHNICAL: Front-end development (JavaScript, React) | Back-end
+development (Ruby, Ruby on Rails, Node.js) | Pair-programming |
+Test-driven development | Object-oriented design | Agile methodologies
+
+BEHAVIORAL: Project management | Problem solving | Adaptability |
+Communication and collaboration | Empathy
+
+
+Experience
+
+FRONT-END DEVELOPER at _DevHub_ _(Seattle, US)_ Sep 2017 – Now
+
+-   Fixed and updated the front-end testing framework to allow
+    continuous integration using CircleCI.
+-   Built new features on the company’s main product according to client
+    specifications.
+-   Refactored the main codebase, built using Backbone and CoffeeScript,
+    splitting code that referred to different projects in order to make
+    it cleaner and more readable to future developers.
+-   Improved internal documentation on front-end testing and workflow
+    checklist for new hires.
+
+SUSTAINABILITY CONSULTANT at _Little Bee Community_ _(London, UK)_
+Oct 2013 – Aug 2016
+
+-   Led a three-year-long project in Africa, defining weekly tasks and
+    monthly milestones, as well as tracking and managing costs and
+    suppliers ensuring goals were met on time and on budget.
+-   Co-designed and launched a hydroponic urban farm in London that
+    reduced crop’s water needs by 90% and doubled its yield, gaining
+    buy-in from a range of local stakeholders.
+-   Reported directly to the CEO, and managed and mentored a team of
+    four interns.
+-   Played a lead role in developing impact frameworks and reports.
+
+AGRICULTURAL ENGINEER at _Battle McCarthy_ _(London, UK)_ Jan 2013 – Oct
+2013
+
+-   Led efforts to maximize food production using hydroponics.
+-   Taught myself Photoshop, InDesign, and Illustrator.
+-   Created appealing diagrams for shortlisted landscaping competitions
+    and corporate materials.
+
+ENVIRONMENTAL ENGINEER at _Aqualogy (AGBAR group)_ _(Madrid, Spain)_ Sep
+2011 – Sep 2012
+
+-   Conducted compliance checks to enforce European laws regarding water
+    treatment.
+-   Designed a working methodology for the analysis of biological
+    quality parameters of Spanish rivers that ensured best practices on
+    sample collection.
 
 
 Personal projects
@@ -48,7 +100,7 @@ project at Makers Academy
 FLICKR GALLERY – _React, Jest, Enzyme, Sinatra_ – 5 days
 
 -   A SPA that retrieves images from the Flickr API so users can search
-    for pictures that match their search.
+    for pictures.
 -   I built a small proxy using Sinatra, to deal with CORS and to avoid
     exposing API keys.
 -   Designed following a mobile-first approach, using media queries to
@@ -57,59 +109,14 @@ FLICKR GALLERY – _React, Jest, Enzyme, Sinatra_ – 5 days
 -   GitHub: github.com/groundberry/flickr-client
 
 
-Skills
-
-TECHNICAL: Front-end development (JavaScript, React) | Back-end
-development (Ruby, Ruby on Rails, Node.js) | Pair-programming |
-Test-driven development | Object-oriented design | Agile methodologies
-
-BEHAVIORAL: Project management | Problem solving | Adaptability |
-Communication and collaboration | Empathy | Creativity
-
-
-Experience
-
-SUSTAINABILITY CONSULTANT at _Little Bee Community_ _(London, UK)_
-Oct 2013 – Aug 2016
-
--   Led a three-year-long project in Africa, defining weekly tasks and
-    monthly milestones, as well as tracking and managing costs and
-    suppliers ensuring goals were met on time and on budget.
--   Co-designed and launched a hydroponic urban farm in London that
-    reduced crop’s water needs by 90% and doubled its yield, gaining
-    buy-in from a range of local stakeholders.
--   Reported directly to the CEO, and managed and mentored a team of
-    four interns.
--   Played a lead role in developing impact frameworks and reports.
-
-AGRICULTURAL ENGINEER at _Battle McCarthy_ _(London, UK)_ Jan 2013 – Oct
-2013
-
--   Led efforts to maximize food production using hydroponics, on a team
-    of three landscape architects and one engineer.
--   Taught myself Photoshop, InDesign, and Illustrator.
--   Created appealing diagrams for shortlisted landscaping competitions
-    and corporate marketing materials.
-
-ENVIRONMENTAL ENGINEER at _Aqualogy (AGBAR group)_ _(Madrid, Spain)_ Sep
-2011 – Sep 2012
-
--   Conducted compliance checks to enforce European laws regarding water
-    treatment.
--   Designed a working methodology for the analysis of biological
-    quality parameters of Spanish rivers that ensured best practices on
-    sample collection.
-
-
 Education
 
-SOFTWARE DEVELOPMENT SELF-TRAINING Jan 2016 – Ongoing
+SOFTWARE DEVELOPMENT SELF-TRAINING Jan 2016 – Now
 
 Self-directed study with online sources and textbooks focusing on:
 
--   Single-page apps using React
--   APIs using Express, Sinatra, or Ruby on Rails
--   Algorithms and data structures
+-   Single-page apps using React; APIs using Express, Sinatra, or Ruby
+    on Rails; algorithms and data structures.
 
 ONSITE SOFTWARE DEVELOPMENT BOOTCAMP at Makers Academy _(London, UK)_
 Aug 2016 – Dec 2016
@@ -119,13 +126,12 @@ Aug 2016 – Dec 2016
     being able to learn a new technology every week completing all the
     assignments with great feedback from my coach.
 -   During the course I showed excellent COMMUNICATION AND COLLABORATIVE
-    SKILLS by helping classmates with their assignments and projects,
-    including offering insights regarding libraries, JavaScript language
-    quirks, and proper data flow. I also started my own blog, which I
-    maintained weekly during the course and won the final competition.
+    SKILLS by helping classmates with their assignments and questions. I
+    also started my own blog, which I maintained weekly during the
+    course and won the final competition.
 
 M.SC. ENVIRONMENTAL ENGINEERING AND MANAGEMENT at EOI Business School
-_(Madrid, Spain)_ 2010 -– 2011
+_(Madrid, Spain)_ 2010 – 2011
 
 B.SC AGRICULTURAL ENGINEERING at Technical University of Madrid
 _(Madrid, Spain)_ 2000 – 2008

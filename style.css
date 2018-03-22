@@ -1,7 +1,9 @@
 html {
   box-sizing: border-box;
 }
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   box-sizing: inherit;
 }
 
@@ -12,7 +14,7 @@ body {
   line-height: 1.5;
   margin: 0 auto;
   max-width: 50em;
-  padding: 30px 15px 40px;
+  padding: 30px 10px 40px;
   word-wrap: break-word;
 }
 
@@ -85,11 +87,11 @@ blockquote {
   padding: 0 16px;
 }
 
-blockquote>:first-child {
+blockquote > :first-child {
   margin-top: 0;
 }
 
-blockquote>:last-child {
+blockquote > :last-child {
   margin-bottom: 0;
 }
 
@@ -112,11 +114,11 @@ ol ol ol {
   list-style-type: lower-alpha;
 }
 
-li>p {
+li > p {
   margin-top: 16px;
 }
 
-li+li {
+li + li {
   margin-top: 4px;
 }
 
