@@ -2,7 +2,7 @@
 title: Blanca Mendizabal Perello
 ---
 
-I'm a full-stack software developer, currently focused on Ruby on Rails, Node and modern front-end technologies such as React. Enthusiastic learner, strong communicator, and reliable team player.
+I'm a full-stack software developer, currently focused on modern front-end technologies such as React; Node, and Ruby on Rails. Enthusiastic learner, strong communicator, and reliable team player.
 
 [+1 (206) 698 6782](tel:+12066986782) | [blanca.mendizabal.perello@gmail.com](mailto:blanca.mendizabal.perello@gmail.com) | [Blog](https://groundberry.github.io/) | [GitHub](https://github.com/groundberry) | [LinkedIn](https://uk.linkedin.com/in/blancamendi) | [Twitter](https://twitter.com/blanca_mendi)
 
@@ -57,8 +57,7 @@ These are some of my side projects. You can see more in my [Portfolio](https://g
 - I split the front-end logic into smaller, stateless, well-tested components.
 - High test coverage helped keep complexity under control and implement bug-free logic.
 - Having gained more than 40 users in the first month after being released, it had really good acceptance and received valuable feedback from real users.
-- App: [groundberry.github.io/flashcards-client](https://groundberry.github.io/flashcards-client/)
-- GitHub: [github.com/groundberry/flashcards-client](https://github.com/groundberry/flashcards-client)
+- **App:** [groundberry.github.io/flashcards-client](https://groundberry.github.io/flashcards-client/) | **GitHub:** [github.com/groundberry/flashcards-client](https://github.com/groundberry/flashcards-client)
 
 **[CSS Playground](https://css-play.herokuapp.com)** -- *React, Jest, Enzyme, HTML5, CSS3* -- 10 days -- Final project at Makers Academy
 
@@ -66,16 +65,14 @@ These are some of my side projects. You can see more in my [Portfolio](https://g
 - Users with no coding experience can create basic website drafts, and download the code.
 - Despite being my first time using React, I became productive after just one week.
 - I played a key role making sure every member of the team felt heard and valued.
-- App: [css-play.herokuapp.com](https://css-play.herokuapp.com/)
-- GitHub: [github.com/groundberry/CSS-playground](https://github.com/groundberry/CSS-playground)
+- **App:** [css-play.herokuapp.com](https://css-play.herokuapp.com/) | **GitHub:** [github.com/groundberry/CSS-playground](https://github.com/groundberry/CSS-playground)
 
 **[Flickr Gallery](https://groundberry.github.io/flickr-client)** -- *React, Jest, Enzyme, Sinatra* -- 5 days
 
 - A SPA that retrieves images from the Flickr API so users can search for pictures.
 - I built a small proxy using Sinatra, to deal with CORS and to avoid exposing API keys.
-- Designed following a mobile-first approach, using media queries to display the images nicely as the size of the screen changes.
-- App: [groundberry.github.io/flickr-client](https://groundberry.github.io/flickr-client/)
-- GitHub: [github.com/groundberry/flickr-client](https://github.com/groundberry/flickr-client)
+- Designed following a mobile-first approach.
+- **App:** [groundberry.github.io/flickr-client](https://groundberry.github.io/flickr-client/) | **GitHub:** [github.com/groundberry/flickr-client](https://github.com/groundberry/flickr-client)
 
 
 ## Education

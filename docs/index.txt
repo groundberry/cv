@@ -20,7 +20,11 @@ Communication and collaboration | Empathy
 
 Experience
 
-FRONT-END DEVELOPER at _DevHub_ _(Seattle, US)_ Sep 2017 – Now
+AUTHOR at _Telerik blogs _ Sep 2018 – Now
+
+-   Featured in popular weekly newsletters such as React Status.
+
+FRONT-END DEVELOPER at _DevHub_ _(Seattle, US)_ Oct 2017 – March 2018
 
 -   Fixed and updated the front-end testing framework to allow
     continuous integration using CircleCI.
