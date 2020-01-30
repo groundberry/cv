@@ -16,7 +16,15 @@ I'm a full-stack software developer, currently focused on modern front-end techn
 
 ## Experience
 
-**Author** at *[Telerik blogs](https://www.telerik.com/blogs/author/blanca-mendizabal-perello) * Sep 2018 -- Now
+**Front-end Developer** at *[Microsoft](https://www.microsoft.com/) via [VTeamLabs](https://vteamlabs.com/)* *(Seattle, US)* May 2019 -- Now
+
+- Performed accessibility audits for [Microsoft Learn](https://docs.microsoft.com/learn/).
+- Implemented new features and functionality on the main MS Learn codebase, built using TypeScript.
+- Improved MS Learn styleguide, showcasing their library of components with live examples.
+- Implemented a reusable grid component using React, TypeScript, and Fabric UI.
+- Implemented new UI elements and components to support the MS Learn onboarding experience.
+
+**Author** at *[Telerik blogs](https://www.telerik.com/blogs/author/blanca-mendizabal-perello)* *(Remote)* Sep 2018 -- Now
 
 - Featured in popular weekly newsletters such as [React Status](https://react.statuscode.com/issues/110).
 
@@ -25,20 +33,18 @@ I'm a full-stack software developer, currently focused on modern front-end techn
 - Fixed and updated the front-end testing framework to allow continuous integration using CircleCI.
 - Built new features on the company's main product according to client specifications.
 - Refactored the main codebase, built using Backbone and CoffeeScript, splitting code that referred to different projects in order to make it cleaner and more readable to future developers.
-- Improved internal documentation on front-end testing and workflow checklist for new hires.
 
 **Sustainability Consultant** at *[Little Bee Community](http://littlebeecommunity.com)* *(London, UK)* Oct 2013 -- Aug 2016
 
-- Led a three-year-long project in Africa, defining weekly tasks and monthly milestones, as well as tracking and managing costs and suppliers ensuring goals were met on time and on budget.
-- Co-designed and launched a hydroponic urban farm in London that reduced crop's water needs by 90% and doubled its yield, gaining buy-in from a range of local stakeholders.
+- Led a three-year-long project in Africa, defining weekly tasks and monthly milestones, ensuring goals were met on time and on budget.
+- Co-designed and launched a hydroponic urban farm in London that reduced crop's water needs by 90% and doubled its yield.
 - Reported directly to the CEO, and managed and mentored a team of four interns.
 - Played a lead role in developing impact frameworks and reports.
 
 **Agricultural Engineer** at *[Battle McCarthy](http://www.battlemccarthy.com)* *(London, UK)* Jan 2013 -- Oct 2013
 
 - Led efforts to maximize food production using hydroponics.
-- Taught myself Photoshop, InDesign, and Illustrator.
-- Created appealing diagrams for shortlisted landscaping competitions and corporate materials.
+- Created appealing diagrams for shortlisted landscaping competitions.
 
 **Environmental Engineer** at *[Aqualogy (AGBAR group)](http://www.aqualogyuk.co.uk)* *(Madrid, Spain)* Sep 2011 -- Sep 2012
 
@@ -56,7 +62,6 @@ These are some of my side projects. You can see more in my [Portfolio](https://g
 - Once the user is authenticated, they are able to create, edit, and delete flashcards.
 - I split the front-end logic into smaller, stateless, well-tested components.
 - High test coverage helped keep complexity under control and implement bug-free logic.
-- Having gained more than 40 users in the first month after being released, it had really good acceptance and received valuable feedback from real users.
 - **App:** [groundberry.github.io/flashcards-client](https://groundberry.github.io/flashcards-client/) | **GitHub:** [github.com/groundberry/flashcards-client](https://github.com/groundberry/flashcards-client)
 
 **[CSS Playground](https://css-play.herokuapp.com)** -- *React, Jest, Enzyme, HTML5, CSS3* -- 10 days -- Final project at Makers Academy
@@ -81,12 +86,12 @@ These are some of my side projects. You can see more in my [Portfolio](https://g
 
 Self-directed study with online sources and textbooks focusing on:
 
-- Single-page apps using React; APIs using Express, Sinatra, or Ruby on Rails; algorithms and data structures.
+- Single-page apps using React; APIs using Express, Sinatra, and Rails; algorithms and data structures.
 
-**Onsite Software Development Bootcamp** at [Makers Academy](http://www.makersacademy.com) *(London, UK)* Aug 2016 -- Dec 2016
+**On-Site Software Development Bootcamp** at [Makers Academy](http://www.makersacademy.com) *(London, UK)* Aug 2016 -- Dec 2016
 
-- Highly-selective 16-week full-time program where I demonstrated **hungry for learning** and **adaptability to high pressure situations**, being able to learn a new technology every week completing all the assignments with great feedback from my coach.
-- During the course I showed excellent **communication and collaborative skills** by helping classmates with their assignments and questions. I also started my own blog, which I maintained weekly during the course and won the final competition.
+- Highly-selective 16-week full-time program where I learnt a new technology every week, completing all assignments with great feedback from my coach.
+- During the course I showed excellent **communication and collaborative skills** by helping classmates with their assignments and questions. I also started my own blog, where I posted weekly, and ended up winning an award.
 
 **M.Sc. Environmental Engineering and Management** at [EOI Business School](http://www.eoi.es/portal/en) *(Madrid, Spain)* 2010 -- 2011
 

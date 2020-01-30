@@ -1,8 +1,8 @@
 Blanca Mendizabal Perello
 
-I’m a full-stack software developer, currently focused on Ruby on Rails,
-Node and modern front-end technologies such as React. Enthusiastic
-learner, strong communicator, and reliable team player.
+I’m a full-stack software developer, currently focused on modern
+front-end technologies such as React; Node, and Ruby on Rails.
+Enthusiastic learner, strong communicator, and reliable team player.
 
 +1 (206) 698 6782 | blanca.mendizabal.perello@gmail.com | Blog | GitHub
 | LinkedIn | Twitter
@@ -20,7 +20,20 @@ Communication and collaboration | Empathy
 
 Experience
 
-AUTHOR at _Telerik blogs _ Sep 2018 – Now
+FRONT-END DEVELOPER at _Microsoft via VTeamLabs_ _(Seattle, US)_ May
+2019 – Now
+
+-   Performed accessibility audits for Microsoft Learn.
+-   Implemented new features and functionality on the main MS Learn
+    codebase, built using TypeScript.
+-   Improved MS Learn styleguide, showcasing their library of components
+    with live examples.
+-   Implemented a reusable grid component using React, TypeScript, and
+    Fabric UI.
+-   Implemented new UI elements and components to support the MS Learn
+    onboarding experience.
+
+AUTHOR at _Telerik blogs_ _(Remote)_ Sep 2018 – Now
 
 -   Featured in popular weekly newsletters such as React Status.
 
@@ -33,18 +46,14 @@ FRONT-END DEVELOPER at _DevHub_ _(Seattle, US)_ Oct 2017 – March 2018
 -   Refactored the main codebase, built using Backbone and CoffeeScript,
     splitting code that referred to different projects in order to make
     it cleaner and more readable to future developers.
--   Improved internal documentation on front-end testing and workflow
-    checklist for new hires.
 
 SUSTAINABILITY CONSULTANT at _Little Bee Community_ _(London, UK)_
 Oct 2013 – Aug 2016
 
 -   Led a three-year-long project in Africa, defining weekly tasks and
-    monthly milestones, as well as tracking and managing costs and
-    suppliers ensuring goals were met on time and on budget.
+    monthly milestones, ensuring goals were met on time and on budget.
 -   Co-designed and launched a hydroponic urban farm in London that
-    reduced crop’s water needs by 90% and doubled its yield, gaining
-    buy-in from a range of local stakeholders.
+    reduced crop’s water needs by 90% and doubled its yield.
 -   Reported directly to the CEO, and managed and mentored a team of
     four interns.
 -   Played a lead role in developing impact frameworks and reports.
@@ -53,9 +62,7 @@ AGRICULTURAL ENGINEER at _Battle McCarthy_ _(London, UK)_ Jan 2013 – Oct
 2013
 
 -   Led efforts to maximize food production using hydroponics.
--   Taught myself Photoshop, InDesign, and Illustrator.
--   Created appealing diagrams for shortlisted landscaping competitions
-    and corporate materials.
+-   Created appealing diagrams for shortlisted landscaping competitions.
 
 ENVIRONMENTAL ENGINEER at _Aqualogy (AGBAR group)_ _(Madrid, Spain)_ Sep
 2011 – Sep 2012
@@ -82,11 +89,8 @@ PostgreSQL_ – 45 days
     components.
 -   High test coverage helped keep complexity under control and
     implement bug-free logic.
--   Having gained more than 40 users in the first month after being
-    released, it had really good acceptance and received valuable
-    feedback from real users.
--   App: groundberry.github.io/flashcards-client
--   GitHub: github.com/groundberry/flashcards-client
+-   APP: groundberry.github.io/flashcards-client | GITHUB:
+    github.com/groundberry/flashcards-client
 
 CSS PLAYGROUND – _React, Jest, Enzyme, HTML5, CSS3_ – 10 days – Final
 project at Makers Academy
@@ -98,8 +102,8 @@ project at Makers Academy
     just one week.
 -   I played a key role making sure every member of the team felt heard
     and valued.
--   App: css-play.herokuapp.com
--   GitHub: github.com/groundberry/CSS-playground
+-   APP: css-play.herokuapp.com | GITHUB:
+    github.com/groundberry/CSS-playground
 
 FLICKR GALLERY – _React, Jest, Enzyme, Sinatra_ – 5 days
 
@@ -107,10 +111,9 @@ FLICKR GALLERY – _React, Jest, Enzyme, Sinatra_ – 5 days
     for pictures.
 -   I built a small proxy using Sinatra, to deal with CORS and to avoid
     exposing API keys.
--   Designed following a mobile-first approach, using media queries to
-    display the images nicely as the size of the screen changes.
--   App: groundberry.github.io/flickr-client
--   GitHub: github.com/groundberry/flickr-client
+-   Designed following a mobile-first approach.
+-   APP: groundberry.github.io/flickr-client | GITHUB:
+    github.com/groundberry/flickr-client
 
 
 Education
@@ -119,20 +122,19 @@ SOFTWARE DEVELOPMENT SELF-TRAINING Jan 2016 – Now
 
 Self-directed study with online sources and textbooks focusing on:
 
--   Single-page apps using React; APIs using Express, Sinatra, or Ruby
-    on Rails; algorithms and data structures.
+-   Single-page apps using React; APIs using Express, Sinatra, and
+    Rails; algorithms and data structures.
 
-ONSITE SOFTWARE DEVELOPMENT BOOTCAMP at Makers Academy _(London, UK)_
+ON-SITE SOFTWARE DEVELOPMENT BOOTCAMP at Makers Academy _(London, UK)_
 Aug 2016 – Dec 2016
 
--   Highly-selective 16-week full-time program where I demonstrated
-    HUNGRY FOR LEARNING and ADAPTABILITY TO HIGH PRESSURE SITUATIONS,
-    being able to learn a new technology every week completing all the
-    assignments with great feedback from my coach.
+-   Highly-selective 16-week full-time program where I learnt a new
+    technology every week, completing all assignments with great
+    feedback from my coach.
 -   During the course I showed excellent COMMUNICATION AND COLLABORATIVE
     SKILLS by helping classmates with their assignments and questions. I
-    also started my own blog, which I maintained weekly during the
-    course and won the final competition.
+    also started my own blog, where I posted weekly, and ended up
+    winning an award.
 
 M.SC. ENVIRONMENTAL ENGINEERING AND MANAGEMENT at EOI Business School
 _(Madrid, Spain)_ 2010 – 2011
