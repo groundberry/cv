@@ -1,46 +1,13 @@
 INPUT := .
-MARKDOWN := $(INPUT)/README.md
-STYLE := $(INPUT)/style.css
-IMAGES := $(wildcard images/*)
+SOURCE := $(INPUT)/main.typ
 
 OUTPUT := docs
-HTML := $(OUTPUT)/index.html
 PDF := $(OUTPUT)/index.pdf
-WORD := $(OUTPUT)/index.docx
-TEXT := $(OUTPUT)/index.txt
 
-all: $(HTML) $(PDF) $(WORD) $(TEXT)
+all: $(PDF)
 
-$(HTML): $(MARKDOWN) $(STYLE) $(IMAGES)
-	pandoc \
-		--title-prefix "$(AUTHOR) - $(TITLE)" \
-		--self-contained \
-		--standalone \
-		--from markdown+smart \
-		--to html5 \
-		--css https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.css \
-		--css $(STYLE) \
-		--output $(HTML) \
-		$(MARKDOWN)
-
-$(PDF): $(HTML)
-	npm install
-	npm run print -- $(HTML) $(PDF)
-
-$(WORD): $(MARKDOWN) $(IMAGES)
-	pandoc \
-		--from markdown \
-		--to docx \
-		--output $(WORD) \
-		$(MARKDOWN)
-
-$(TEXT): $(MARKDOWN)
-	pandoc \
-		--standalone \
-		--from markdown+smart \
-		--to plain \
-		--output $(TEXT) \
-		$(MARKDOWN)
+$(PDF): $(SOURCE)
+	typst compile $< $@
 
 clean:
 	rm -rf $(OUTPUT)/*
